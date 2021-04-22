@@ -1,0 +1,12 @@
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\bin\Debug\HastaneOtomasyonu-YM.exe.config
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\bin\Debug\HastaneOtomasyonu-YM.exe
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\bin\Debug\HastaneOtomasyonu-YM.pdb
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu-YM.csprojAssemblyReference.cache
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Form1.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Properties.Resources.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu-YM.csproj.GenerateResource.cache
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu-YM.exe
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu-YM.pdb
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Doktorlar.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Hastalar.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Klinik.resources
