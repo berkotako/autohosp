@@ -64,11 +64,23 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GenelTakvim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenelTakvim.Designer.cs">
+      <DependentUpon>GenelTakvim.cs</DependentUpon>
+    </Compile>
     <Compile Include="Hastalar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Hastalar.Designer.cs">
       <DependentUpon>Hastalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaRaporOluşturucu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaRaporOluşturucu.Designer.cs">
+      <DependentUpon>HastaRaporOluşturucu.cs</DependentUpon>
     </Compile>
     <Compile Include="Klinik.cs">
       <SubType>Form</SubType>
@@ -76,19 +88,49 @@
     <Compile Include="Klinik.Designer.cs">
       <DependentUpon>Klinik.cs</DependentUpon>
     </Compile>
+    <Compile Include="Odeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odeme.Designer.cs">
+      <DependentUpon>Odeme.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandevuIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuIslemleri.Designer.cs">
+      <DependentUpon>RandevuIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceteIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceteIslemleri.Designer.cs">
+      <DependentUpon>ReceteIslemleri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ayarlar.resx">
+      <DependentUpon>Ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Doktorlar.resx">
       <DependentUpon>Doktorlar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GenelTakvim.resx">
+      <DependentUpon>GenelTakvim.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Hastalar.resx">
       <DependentUpon>Hastalar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="HastaRaporOluşturucu.resx">
+      <DependentUpon>HastaRaporOluşturucu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Klinik.resx">
       <DependentUpon>Klinik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odeme.resx">
+      <DependentUpon>Odeme.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -100,6 +142,12 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="RandevuIslemleri.resx">
+      <DependentUpon>RandevuIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceteIslemleri.resx">
+      <DependentUpon>ReceteIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -10,3 +10,9 @@ C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\
 C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Doktorlar.resources
 C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Hastalar.resources
 C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Klinik.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Ayarlar.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.GenelTakvim.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.Odeme.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.HastaRaporOluşturucu.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.RandevuIslemleri.resources
+C:\Users\berkk\source\repos\HastaneOtomasyonu-YM\HastaneOtomasyonu-YM\obj\Debug\HastaneOtomasyonu_YM.ReceteIslemleri.resources

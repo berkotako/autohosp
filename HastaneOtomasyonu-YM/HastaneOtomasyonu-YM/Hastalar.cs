@@ -26,5 +26,11 @@ namespace HastaneOtomasyonu_YM
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            HastaRaporOluşturucu frm_hasta_rpr = new HastaRaporOluşturucu();
+            frm_hasta_rpr.Show();
+        }
     }
 }

@@ -24,17 +24,20 @@ namespace HastaneOtomasyonu_YM
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            RandevuIslemleri frm_randevu = new RandevuIslemleri();
+            frm_randevu.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Klinik frm_klinik = new Klinik();
+            frm_klinik.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Doktorlar frm_doktorlar = new Doktorlar();
+            frm_doktorlar.Show();
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -109,17 +112,20 @@ namespace HastaneOtomasyonu_YM
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            Hastalar frm_hastalar = new Hastalar();
+            frm_hastalar.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            Ayarlar frm_ayarlar = new Ayarlar();
+            frm_ayarlar.Show();
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-
+            GenelTakvim frm_takvim = new GenelTakvim();
+            frm_takvim.Show();
         }
 
         private void label5_Click(object sender, EventArgs e)
@@ -129,7 +135,26 @@ namespace HastaneOtomasyonu_YM
 
         private void button9_Click(object sender, EventArgs e)
         {
+            Odeme frm_odeme = new Odeme();
+            frm_odeme.Show();
+        }
 
+        private void button12_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Çıkış Yapıldı!"); // Burası OK NO Butonu Olacak
+            Application.Exit();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            HastaRaporOluşturucu frm_rapor = new HastaRaporOluşturucu();
+            frm_rapor.Show();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            ReceteIslemleri frm_recete = new ReceteIslemleri();
+            frm_recete.Show();
         }
     }
 }
